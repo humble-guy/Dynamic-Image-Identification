@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C28EC882-7AB1-FF85-044A-5C32D3D69EC7}") = "ImageIdentification", "Assembly-CSharp.csproj", "{B517F031-A2AB-2110-DC17-B63224FD3F72}"
+EndProject
+Project("{C28EC882-7AB1-FF85-044A-5C32D3D69EC7}") = "ImageIdentification", "Assembly-UnityScript-firstpass.unityproj", "{F9354F46-318A-A4ED-3CE7-3EF472CCE237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B517F031-A2AB-2110-DC17-B63224FD3F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B517F031-A2AB-2110-DC17-B63224FD3F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B517F031-A2AB-2110-DC17-B63224FD3F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B517F031-A2AB-2110-DC17-B63224FD3F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9354F46-318A-A4ED-3CE7-3EF472CCE237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9354F46-318A-A4ED-3CE7-3EF472CCE237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9354F46-318A-A4ED-3CE7-3EF472CCE237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9354F46-318A-A4ED-3CE7-3EF472CCE237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
